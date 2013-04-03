@@ -10,3 +10,43 @@ Body Font Size = 12px
 Link Hover Color = #20222a
 
 */
+a:link{color:#656565;}
+a:hover {color:#20222a;}
+
+body{
+	font-size: 14px;
+	font-family:"Times New Roman", serif;
+	line-height: 7.3px;
+	color:#656565;
+
+}
+div#container{
+
+	background-image:url('../mockup.png');
+	background-repeat: no-repeat;
+	width:1180px;
+	height:1494px;
+	border:2px solid pink;
+}
+div#logo{
+	margin:42px 0 15px 70px;
+	width:197px;
+	height:29px;
+}
+div.content{
+	width:960px;
+	height:499px;
+	margin:0 0 4px 71px ;
+	border:2px solid black;
+}
+body #article{
+	height:175px;
+
+}
+p{
+	line-height: 4px;
+	/*margin:0 0 0 0;*/
+	
+
+
+}
