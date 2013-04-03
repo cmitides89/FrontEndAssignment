@@ -22,8 +22,8 @@ body{
 }
 div#container{
 
-	background-image:url('../mockup.png');
-	background-repeat: no-repeat;
+	/*background-image:url('../mockup.png');
+	background-repeat: no-repeat;*/
 	width:1180px;
 	height:1494px;
 	border:2px solid pink;
