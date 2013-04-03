@@ -46,7 +46,8 @@ body #article{
 p{
 	line-height: 4px;
 	/*margin:0 0 0 0;*/
-	
-
-
+}
+div.press{
+	width:235px;
+	height:150px;
 }
