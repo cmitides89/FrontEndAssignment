@@ -11,12 +11,12 @@ Link Hover Color = #20222a
 
 */
 a:link{color:#656565;}
-a:hover {color:#20222a;}
+a:hover{color:#20222a;}
 
 body{
 	font-size: 14px;
 	font-family:"Times New Roman", serif;
-	line-height: 7.3px;
+	line-height: 17px;
 	color:#656565;
 
 }
@@ -43,11 +43,29 @@ body #article{
 	height:175px;
 
 }
+h2{
+	margin:10px 0 0 0;
+}
+h5{
+	margin:15px 0 10px 0;
+}
 p{
-	line-height: 4px;
-	/*margin:0 0 0 0;*/
+	
+	margin-top:5px;
+	margin-bottom:10px;
+}
+div#first_left{
+margin-left:71px;
 }
 div.press{
-	width:235px;
-	height:150px;
+	width:226px;
+	height:145px;
+	border:5px solid #c5c5c5;
+	margin-right:3px;
+	float:left;
+}
+div div.inner{
+	width:224px;
+	height:144px;
+	border:1px solid white;
 }
