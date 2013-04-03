@@ -26,7 +26,7 @@ div#container{
 	background-repeat: no-repeat;*/
 	width:1180px;
 	height:1494px;
-	border:2px solid pink;
+	/*border:2px solid pink;*/
 }
 div#logo{
 	margin:42px 0 15px 70px;
@@ -37,7 +37,7 @@ div.content{
 	width:960px;
 	height:499px;
 	margin:0 0 4px 71px ;
-	border:2px solid black;
+	/*border:2px solid black;*/
 }
 body #article{
 	height:175px;
